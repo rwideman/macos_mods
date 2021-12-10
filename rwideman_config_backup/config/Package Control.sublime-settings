@@ -1,0 +1,22 @@
+{
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Anaconda",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Emmet",
+		"FindKeyConflicts",
+		"Function Name Display",
+		"HTML-CSS-JS Prettify",
+		"Package Control",
+		"Python Flake8 Lint",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pyflakes",
+		"Theme - Monokai Pro"
+	]
+}

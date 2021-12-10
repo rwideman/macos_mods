@@ -1,0 +1,57 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Monokai Pro.sublime-color-scheme",
+	"draw_minimap_border": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.sublime-workspace"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 19,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"NeoVintageous",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"match_brackets_content": true,
+	"match_selection": false,
+	"mini_diff": false,
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"scroll_speed": 5.0,
+	"show_definitions": true,
+	"show_encoding": true,
+	"tabs_small": true,
+	"theme": "Monokai Pro.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintageous_use_ctrl_keys": null,
+	"vintageous_use_super_keys": null
+}
